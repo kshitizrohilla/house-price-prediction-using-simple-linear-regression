@@ -18,7 +18,6 @@ These libraries can be installed using pip:
 ```
 pip install numpy pandas matplotlib scikit-learn
 ```
-
 ## Usage
 
 To use this project, simply clone or download the repository, navigate to the project directory, and run the analysis.ipynb Jupyter Notebook. This Notebook contains the code and explanations for loading and exploring the dataset, training a linear regression model, and visualizing the results.
