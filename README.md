@@ -1,8 +1,8 @@
 # Simple Linear Regression Example: House Price Prediction
 
-This is a sample project that demonstrates how to use simple linear regression to predict the price of a house given its area in square feet. Given these house prices we can find out the prices of the houses based on the house area.
+This project aims to predict the price of a house based on its area using simple linear regression. The dataset used in this project consists of 1000 houses in Monroe Township, New Jersey, and their respective areas and prices.
 
-We will be predicting the house prices of an area using a machine learning technique called simple linear regression. We have the prices of the houses based on the area of that house.
+The data is stored in a CSV file named `house-prices.csv`.
 
 ## Requirements
 
